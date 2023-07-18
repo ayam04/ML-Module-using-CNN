@@ -6,7 +6,7 @@ This repository contains an example implementation of an image classification mo
 
 To run this code, you need to have the following dependencies installed:
 
-- TensorFlow: A powerful machine learning library for building and training deep learning models.
+- [ ] TensorFlow: A powerful machine learning library for building and training deep learning models.
 - TensorFlow Keras: The high-level API for building and training neural networks with TensorFlow.
 - TensorFlow Keras ImageDataGenerator: A utility for loading and preprocessing images for training the model.
 
